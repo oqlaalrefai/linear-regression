@@ -1,1 +1,1 @@
-[Pull request](https://github.com/oqlaalrefai/linear-regression/pull/1)
+[Pull request](https://github.com/oqlaalrefai/linear-regression/pull/2)
